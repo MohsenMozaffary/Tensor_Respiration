@@ -7,6 +7,7 @@ This repository contains the codes for estimating respiratory signals through th
 Tensor decomposition methods are powerful tools for extracting signals from multi-dimensional data. In this project, we utilize:
 - **Canonical Polyadic Decomposition (CPD)**
 - **Tucker Decomposition**
+![CPD Decomposition](figures/CPD2.png)
 
 to extract respiratory signals from thermal video data. These methods help isolate the desired signal from noise and other interferences.
 
